@@ -1,3 +1,4 @@
+#followed online tutorial
 import tensorflow as tf
 import os
 from skimage.io import imread, imshow
